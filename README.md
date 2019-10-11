@@ -13,7 +13,7 @@
    the student had entered. Each grade is represented as a String character "*" and is put next to the grade.
    
 3. Program outputs the acceptance percentage aswell. 
-   "0" grades are not considered when calculating the percentage of acceptance. Calculated: `100 * acceptedGrades / allGrades`
+   "0" grades are not considered when calculating the percentage of acceptance. Formula: `100 * acceptedGrades / allGrades`
    
    **E.g.**
    - *"Type exam scores, -1 completes: "*
