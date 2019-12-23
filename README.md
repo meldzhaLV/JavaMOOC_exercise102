@@ -1,6 +1,6 @@
 ## Grade Distribution 
 
-**This is a Grade Distribution exercise from Massive Online Open Course by University of Helsinky**
+**This is a Grade Distribution exercise from Massive Online Open Course by University of Helsinki**
 
 ## About the project
 
